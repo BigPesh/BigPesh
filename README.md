@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python programming...
 - 💞️ I’m looking to collaborate on anything Python...
 - 📫 How to reach me grant.peach@bigpesh.co.uk
+- 🌐 www.beardedpython.com
 - 🌐 www.bigpesh.co.uk
 
 <!---

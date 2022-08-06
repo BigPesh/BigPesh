@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BigPesh
 - 👀 I’m interested in Python programming...
 - 💞️ I’m looking to collaborate on anything Python...
-- 📫 How to reach me grant.peach@bigpesh.co.uk
-- 🌐 www.beardedpython.com
-- 🌐 www.bigpesh.co.uk
+- 📫 How to reach me pesh19895@gmail.com
+- 🌐 https://grant-peach-blog.web.app
+
 
 <!---
 BigPesh/BigPesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
